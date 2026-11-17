@@ -53,11 +53,11 @@ Student: stu1@gmail.com | Pass: 456123
 
 ## 📸 System UI & Features
 ### 👑 Admin Portal
-![Admin Login](screenshots/image1.jpg)
+![Admin Login](screenshots/image1.png)
 ![Admin Dashboard](screenshots/image2.png)
-![Welcome Admin](screenshots/image3.jpg)
+![Welcome Admin](screenshots/image3.png)
 ![Manage Officers](screenshots/image4.png)
-![Manage Teachers](screenshots/image5.jpg)
+![Manage Teachers](screenshots/image5.png)
 ![Manage Students](screenshots/image6.png)
 ![Register Academic Officers](screenshots/image7.png)
 ![Student Results (A/L)](screenshots/image8.png)
@@ -67,9 +67,9 @@ Student: stu1@gmail.com | Pass: 456123
 ![Admin Update Profile](screenshots/image12.png)
 
 ### 👨‍🏫 Teacher Portal
-![Teacher Login](screenshots/image13.jpg)
+![Teacher Login](screenshots/image13.png)
 ![Teacher Dashboard](screenshots/image14.png)
-![Teacher Subjects](screenshots/image15.jpg)
+![Teacher Subjects](screenshots/image15.png)
 ![Subject View](screenshots/image16.png)
 ![Lesson Notes](screenshots/image17.png)
 ![Assignments](screenshots/image18.png)
@@ -77,13 +77,13 @@ Student: stu1@gmail.com | Pass: 456123
 ![Teacher Update Profile](screenshots/image20.png)
 
 ### 🏢 Academic Officer Portal
-![Officer Login](screenshots/image21.jpg)
+![Officer Login](screenshots/image21.png)
 ![Officer Dashboard & Registration](screenshots/image22.png)
 ![Student Results Search](screenshots/image23.png)
 ![Officer Update Profile](screenshots/image24.png)
 
 ### 🎓 Student Portal
-![Student Login](screenshots/image25.jpg)
+![Student Login](screenshots/image25.png)
 ![Student Dashboard & Subjects](screenshots/image26.png)
 ![Sinhala Language Lesson Notes](screenshots/image27.png)
 ![Student Profile Menu](screenshots/image28.png)
