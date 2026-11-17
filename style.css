@@ -1,0 +1,224 @@
+@font-face {
+    font-family: "Ubuntu-Light";
+    src: url("fonts/Ubuntu-Light.ttf");
+}
+
+@font-face {
+    font-family: "Baloo2-Regular";
+    src: url("fonts/Baloo2-Regular.ttf");
+}
+
+* {
+    font-family: "Baloo2-Regular";
+    font-size: 16px;
+}
+
+@keyframes transition {
+    from {
+        opacity: 0;
+        transform: rotateX(-10deg);
+    }
+    to {
+        opacity: 1;
+        transform: rotateX(0);
+    }
+}
+
+body {
+    animation: transition 0.90s;
+}
+
+
+/* student login */
+
+.body1 {
+    background-color: rgb(31, 27, 77);
+}
+
+.div1 {
+    background-color: white;
+    border-radius: 30px;
+}
+
+.img1 {
+    height: 500px;
+    background-image: url("img/logo-image1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.title1 {
+    font-family: "Ubuntu-Light";
+    font-size: 35px;
+}
+
+.input1 {
+    border-radius: 20px;
+}
+
+.btn1 {
+    border-radius: 12px;
+}
+
+.copy{
+    color:rgb(245, 246, 248) ;
+}
+
+
+/* student dashboard */
+
+.div2 {
+    background-color: white;
+    border-style: solid;
+    border-color: #0d6efd;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom-width: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.div3 {
+    background-image: url("img/logo-image2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-top: 100px;
+}
+
+.logo1 {
+    height: 80px;
+    background-image: url("img/logo-image1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.bar {
+    height: 3px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.div4 {
+    background-color: rgba(39, 189, 227, 0.804);
+    border-radius: 20px;
+}
+
+.logof {
+    height: 150px;
+    background-image: url("img/logo-image2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.tb{
+    height: 80px;
+    background-image: url("img/logo-image2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.div5 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-top: 100px;
+}
+
+
+/* student profile  */
+
+.input2 {
+    border-radius: 12px;
+}
+
+.btn2 {
+    border-radius: 10px;
+}
+
+
+/* teacher login */
+
+.img2 {
+    height: 500px;
+    background-image: url("img/tech.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+
+/* teacher dashboard */
+
+.divt1 {
+    background-color: white;
+    border-style: solid;
+    border-color: #2ebf28;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom-width: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.barT {
+    height: 3px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #2ebf28;
+}
+
+
+/* AOfficer login */
+
+.img3 {
+    height: 500px;
+    background-image: url("img/istockphoto.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.divAO1 {
+    background-color: white;
+    border-style: solid;
+    border-color: #0dcaf0;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom-width: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+/* Admin login */
+
+.img4 {
+    height: 500px;
+    background-image: url("img/admin.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.divAd1 {
+    background-color: white;
+    border-style: solid;
+    border-color: #dc3545;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom-width: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
