@@ -40,7 +40,7 @@ A comprehensive, role-based Online Student Management System built using PHP and
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/TashilaDilshanK/osms-php-mysql.git](https://github.com/TashilaDilshanK/osms-php-mysql.git)
+   git clone https://github.com/TashilaDilshanK/osms-php-mysql.git
 
 ## 🔐 Default Login Credentials (For Testing)
 Admin: admin@gmail.com | Pass: 123123
